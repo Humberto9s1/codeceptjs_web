@@ -12,7 +12,7 @@ exports.config = {
   output: './output',
   helpers: {
     WebDriver: {
-      url: 'http://localhost',
+      url: 'https://www.google.com',
       browser: 'chrome'
     }
   },
