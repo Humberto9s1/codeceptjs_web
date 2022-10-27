@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "codeceptjs": "^3.3.6",
+    "custom-env": "^2.0.1",
     "webdriverio": "^7.25.2"
   },
   "devDependencies": {
