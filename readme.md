@@ -12,9 +12,8 @@ npx selenium-standalone install
 npx selenium-standalone start
 ```
 
-Create .env file in project root
+Run testes
 
 ```sh
-BASE_URL = 'https://www.google.com'
-BROWSER = 'chrome'
+npx codeceptjs run --steps
 ```
